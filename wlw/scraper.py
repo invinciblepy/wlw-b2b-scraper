@@ -71,7 +71,7 @@ Site   : https://hashamx.com
                 company.get("companyUrl"),
                 company.get("street"),
                 company.get("city"),
-                company.get("zip_code"),
+                company.get("zipcode"),
                 company.get("country_code"),
                 ", ".join(company.get("supplier_types", [])),
                 company.get("phone_number"),

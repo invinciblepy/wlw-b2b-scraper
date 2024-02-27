@@ -1,11 +1,26 @@
 Name,URL,Street,City,Zip Code,Country,Supplier Types,Phone Number,Homepage,Slug,Description,Employee Count,Product Count,Distribution Area,Founding Year,Average Response Time
+SolarWald GmbH,,Schleusenweg 35,Herne,,DE,distribution,+4923233687730,https://www.solar-wald.de/,solarwald-gmbh-22274412,Als renommierter Fachbetrieb für Photovoltaikanlagen bieten wir unseren Kunden und Kundinnen in Nordrhein-Westfalen nachhaltige Konzepte zur Stromerzeugung durch Solarenergie. Mit einem Fokus auf Phot,1-10,18,regional,2022,from_24h_to_48h
+RESOL Elektronische Regelungen GmbH,,Heiskampstrasse 10,Hattingen,,DE,production,+49232496480,http://www.resol.de/,resol-elektronische-regelungen-gmbh-294950,"Solar- & Systemregler, Frischwasserregler, Schwimmbadregler, Heizungsregler, Wärmeübergabe, Solarstationen, Thermostate, Messgeräte, Wärmemengenzähler, Sensoren, Ventile, Ersatzteile, Zubehör.
+
+RESOL ",101-200,13,international,1977,
+IBS Industrie GmbH,,Am Europa-Center 8,Essen,,DE,"production, service, distribution, wholesaler",+4920117125871,http://www.ibs-industrie.de/,ibs-industrie-gmbh-1831841,Die IBS Industrie GmbH ist Ihr zuverlässiger Partner für die Beschaffung und Herstellung von Zeichnungsteilen und technischen Artikeln. Unsere Kernkompetenz liegt in der Fertigung von maßgeschneiderte,1-10,56,europe,2001,from_24h_to_48h
+Voltarix GmbH,,Manderscheidtstr. 23,Essen,,DE,service,+491608108160,http://www.voltarix.de/,voltarix-gmbh-22290506,"
+Mit einer tief verwurzelten Fachkompetenz, die auf jahrelanger Erfahrung und leidenschaftlicher Expertise basiert, sind wir Ihr vertrauenswürdiger Partner für erneuerbare Energien und Elektromobilitä",1-10,15,national,,
+Astro Montage GmbH & Co. KG,,Breite Straße 7,Witten,,DE,service,+49023028895850,http://astro-montage.de/,astro-montage-gmbh-co-kg-20030856,"Wir sind die Astro Montage GmbH & Co. KG. 
+
+Ein junges, dynamisches und deutschsprachiges Team, welches deutschlandweit tätig ist und dabei Standorte hat in Witten, Frankfurt am Main und Wittenberge. ",1-10,6,national,2023,more_than_72h
+Elektro-Friedrichs Inh. Michael Friedrichs,,Breddestr. 38,Gelsenkirchen,,DE,"customer_specific_manufacturing, service",+4915144986879,https://elektro-friedrichs.com/,elektro-friedrichs-inh-michael-friedrichs-22275971,"Elektro Friedrichs ist ein moderner Elektrofachbetrieb, der im Jahr 2023 gegründet wurde und sich auf die Installation und Wartung von Photovoltaikanlagen, Ladeinfrastruktur für Elektrofahrzeuge sowie",11-50,25,regional,2023,from_24h_to_48h
 Solar Tech NRW GmbH,,Domstraße 77,Köln,,DE,"service, distribution",+49022165048828,https://solartech-nrw.de/,solar-tech-nrw-gmbh-22278474,"Solar Tech NRW GmbH – Ihr Partner für nachhaltige Photovoltaik-Lösungen
 
 Die Solar Tech NRW GmbH mit Sitz in Köln ist Ihr verlässlicher Partner für innovative und nachhaltige Photovoltaik-Lösungen. Al",11-50,8,national,,less_than_24h
+Ideal Elektrosysteme GmbH,,Barmer Straße 87,Remscheid,,DE,service,+4921913768712,https://ideal-elektro.de/,ideal-elektrosysteme-gmbh-20259703,"Wir sind Ihr regionaler Fachbetrieb für die beste Solaranlage. Erhalten Sie direkt einen unverbindlichen Kostenvoranschlag für Ihre Solar Anlage
+
+Willkommen bei Ideal Elektrosysteme, Ihrem Fullservice",11-50,3,national,2022,
 SMP Solar Energy GmbH,,"Lütznerstr., 90",Leipzig,,DE,"distribution, service",+4934147847300,http://www.smp-solar.de/,smp-solar-energy-gmbh-1393398,"LEIPZIGER FAMILIENBETRIEB MIT VIEL KNOW HOW
 Seit 20 Jahren mit der Sonne im Gepäck
 Seit über 20 Jahren ist die SMP Solar Energy GmbH als familiengeführtes Unternehmen Ihr verlässlicher Partner für Sol",51-100,20,national,2002,less_than_24h
 MTI Solar,,Wiesenbronner Str. 1A,Kleinlangheim ,,DE,"production, customer_specific_manufacturing, wholesaler",+4993259800033,http://www.mt-int.de/,mti-solar-1771027,"MTI Solar entwickelt Photovoltaik-Lösungen, die speziell für den Vertrieb durch Großhändler und Händler optimiert sind. Unsere Produkte kombinieren Effizienz, Nachhaltigkeit und innovative Technologie",11-50,32,europe,2005,from_48h_to_72h
+CUBE CONCEPTS GmbH,,An der Gümpgesbrücke 17,Kaarst,,DE,service,+492131205220,https://cubeconcepts.de/,cube-concepts-gmbh-20017231,"CUBE CONCEPTS ist ein Planungs-, Beratungs- und Full-Service-Unternehmen für Photovoltaik, das als PV-Architekt individuelle Energiekonzepte und Solarstromanlagen entwickelt und realisiert. Unser Serv",11-50,17,europe,2020,less_than_24h
 DL Solar Bau Meisterbetrieb,,Seehausen 8 ,Cuxhaven,,DE,"production, distribution, service",+4917643593742,https://dl-solarbau.de/impressum/,dl-solar-bau-meisterbetrieb-22273056,"DL Solar Bau Meisterbetrieb ist ein führendes Unternehmen im Bereich der erneuerbaren Energien, spezialisiert auf die Installation und Wartung von Photovoltaikanlagen. Mit einem umfassenden Serviceang",1-10,15,regional,2008,
 baro Solar GmbH,,Torgauer Landstraße 42 a,Eilenburg,,DE,"service, distribution, wholesaler",+4934237066600,https://baro-solar.de/,baro-solar-gmbh-20037787,"Photovoltaik, Photovoltaikanlagen, Installation Photovoltaikanlagen, Solar, 
 Projektierung, PV – Anlage, Wartung, Stromspeicher, Energiespeicher, Batterie,
@@ -19,3 +34,19 @@ Wir unterstützen Unternehmen bei der effizienten Gestaltung ihrer Energie- un",1
 Suntechs  Solar Reinigung by Elci & Yalniz GbR,,Hauptstraße 7 ,Lauenhagen,,DE,service,+49057218999419,https://www.suntechs.de/,suntechs-solar-reinigung-by-elci-yalniz-gbr-20029597,"Herzlich Willkommen bei Suntechs. Wir sind ein professionelles Unternehmen das sich auf die Bereiche Solarreinigung, Solarinstallation, Elektroinstallation und Beleuchtungsdesign spezialisiert hat.
 
 w",1-10,1,national,2023,from_48h_to_72h
+Schlüter Solarbau Inh. Jannick Schlüter,,Oberste-Wilms-Str. 31,Dortmund,,DE,"service, distribution, wholesaler",+4923113064355,https://www.schlueter-solarbau.de/,schlueter-solarbau-inh-jannick-schlueter-20038299,"Firmenbeschreibung: Schlüter Solarbau Inh. Jannick Schlüter
+Herzlich willkommen bei Schlüter Solarbau, Ihrem verlässlichen Partner für Photovoltaikanlagen und solare Energielösungen. Unter der Leitung",1-10,9,regional,2022,
+Qmax Energie GmbH&Co.KG,,Am Steinig 14,Itzgrund,,DE,"service, distribution",+4995339827700,https://qmax-energie.de/,qmax-energie-gmbhcokg-22273858,"Ihr Partner für PV-Anlagen
+
+Qmax Energie plant und errichtet individuelle Photovoltaik Anlagen in allen Größenordnungen und für jeden Bedarf im privaten, gewerblichen und industriellen Bereich.
+
+Qmax ",11-50,12,regional,,less_than_24h
+FEK GmbH,,Kurt-Römer-Straße 5,Schweinfurt,,DE,"production, customer_specific_manufacturing, distribution, service",+4997215393350,https://www.fraenkische-energiekonzepte.de/,fek-gmbh-22269201,"Wer sind die Menschen hinter ""Fränkische Energiekonzepte""?
+Wir sind ein Team erfahrener Fachleute, die sich zum Ziel gesetzt haben, Ihnen maßgeschneiderte und nachhaltige Energiekonzepte anzubieten. O",11-50,10,regional,,less_than_24h
+Faber E-Tec GmbH,,Bachstraße  21,Bünde,,DE,"production, service",+4952236570890,https://faber-etec.de/,faber-e-tec-gmbh-20025630,"Faber E-TEC GmbH – Ihr Partner für innovative Transformatorlösungen und nachhaltige Energiekonzepte.
+
+Willkommen bei der Faber E-TEC GmbH – Ihrem zuverlässigen Partner für innovative und maßgeschneide",101-200,21,europe,,less_than_24h
+Markus Deiss e.K.,,Brestenberg 36,Niedereschach,,DE,"distribution, wholesaler",+4977283769890,https://solarhandel-deiss.de/,markus-deiss-ek-20025232,"B2B Großhändler mit mehreren hundert sofort lieferbaren Produkten!
+
+Ihr zuverlässiger Partner für Solarmodule, Wechselrichter, Batteriespeicher, Wallboxen und PV-Zubehör in Deutschland für Photovoltai",1-10,1,europe,2018,less_than_24h
+pm-energy GmbH,,Dorfstrasse 2a,Reesdorf,,DE,"service, wholesaler",+494322889010,https://pv-gewerbestrom.de/,pm-energy-gmbh-1597659,"pm-energy GmbH: Wir sind Ihre Experten, wenn es um Photovoltaikanlagen geht und Marktführer für Aufdachanlagen in der Region. Ob mit oder ohne Speicher – wir beraten, planen, liefern und montieren für",11-50,17,europe,2003,less_than_24h
