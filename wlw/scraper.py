@@ -1,11 +1,11 @@
 import os
 import time
 import csv
-import requests
 from urllib import parse
 import user_agent
 import random
-from wrapper import fetch_url
+from wlw.wrapper import fetch_url
+
 
 class WLWScraper:
     def __init__(self, url=None):
@@ -32,7 +32,6 @@ Author : invinciblepy
 GitHub : https://github.com/invinciblepy
 Site   : https://hashamx.com
 ---------------------------------------------------""")
-        
 
     def create_params(self, url):
         params = {}
@@ -91,12 +90,3 @@ Site   : https://hashamx.com
             print(f"[i] Scraping Page {page+1} of {self.total_pages}")
             time.sleep(random.randint(2, 4))
             self.scrape(page=page+1)
-            
-            
-            
-
-
-if __name__ == "__main__":
-    scraper = WLWScraper(url="https://www.wlw.de/de/suche?q=solar+installer")
-    scraper.scrape()
-
